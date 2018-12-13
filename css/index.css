@@ -1,0 +1,38 @@
+*{box-sizing: border-box;}
+body{ 
+    padding-top: 73px;
+}
+
+#nav {
+	background-color: white;
+	color: DeepSkyBlue;
+}
+.nav-link{
+	font-size: 20px;
+}
+.navbar-brand {
+	font-size:30px; 
+	font-weight:bold;
+}
+
+.modal-header{
+
+    background-color: rgb(13, 75, 94);
+  
+}
+
+
+.modal-title{
+	margin: 0 auto;
+	color: white;
+}
+.mdl-card__media{
+	background-color: DeepSkyBlue;
+}
+
+
+
+
+
+
+

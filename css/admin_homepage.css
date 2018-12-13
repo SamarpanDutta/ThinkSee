@@ -1,0 +1,49 @@
+thead{
+    color: rgb(255, 255, 255);
+    background-color: rgb(36, 36, 36);
+    font-size: 20px;
+}
+tbody{
+    color: rgb(255, 255, 255);
+    background-color: rgb(158, 156, 156);
+    font-size: 18px;
+}
+.approval{
+    background-color: rgb(255, 255, 255);
+    color: green;
+}
+.rejection{
+    background-color: rgb(255, 255, 255);
+    color: red;
+}
+
+label{
+    font-weight:bold;
+    font-size:20px;
+    color: deepskyblue;
+}
+
+.dropdown-item{
+    font-size:18px;
+}
+
+body{ 
+    padding-top: 73px;
+}
+
+#nav {
+	background-color: white;
+	color: DeepSkyBlue;
+}
+.nav-link{
+	font-size: 20px;
+}
+.navbar-brand {
+	font-size:30px; 
+	font-weight:bold;
+}
+
+#change-password {
+	background-color:rgb(13, 75, 94);
+	color:white;
+}
